@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @josephgeo13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 🌱 I'm pursuing my PG on computer applications.
-- 🌱 I'm open for learning,internships and part time jobs.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me --- josephgeo13@gmail.com
+- 👀 I'm open for Software developer jobs.
+- 🌱 SKILLS:- *[`Core Java, SQL, JavaScript, HTML, CSS`]*
+- 🌱 I’m currently learning Java FullStack development course.
+- 🌱 I completed my Master's on computer applications.
+- 📫 How to reach me --- josephgeo13@gmail.com || josephgeorge098@gmail.com
 
 <!---
 josephgeo13/josephgeo13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
